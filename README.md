@@ -20,7 +20,7 @@ A desktop-based **Library Management System** built in Python using `tkinter` fo
   - Prevent duplicate issues or returns without valid records
 
 - ⚙️ **Data Persistence**
-  - Stores all records in structured text files (or SQLite — specify if true)
+  - Stores all records in structured text files 
   - Maintains state across application restarts
 
 - 🖥️ **User-Friendly Interface**
